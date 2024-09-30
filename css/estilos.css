@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to bottom, #000, #000, #590423)
+}
+
+.container{
+    padding: 1rem;
+    color: #de004e;
+}
+
+h2{
+    font-size: 3rem;
+    padding: 1.2rem;
+    color: #de004e;
+}
+
+.nombre{
+    font-size: 2.5rem;
+    color: #de004e;
+    
+}
+.programador {
+    display: block;
+    margin: 0 auto;
+    width: 30rem;
+    height: auto;
+    border-radius: 10%;
+}
